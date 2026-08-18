@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg-grad-512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg-grad-512)"/>
+  <!-- Heart and checkmark icon -->
+  <path d="M256 390s-117-70.4-117-144c0-41.3 33.3-74.6 74.6-74.6 26.6 0 50.4 13.9 64 35.2 13.6-21.3 37.4-35.2 64-35.2 41.3 0 74.6 33.3 74.6 74.6 0 73.6-117.2 144-117.2 144z" fill="#ffffff" opacity="0.95"/>
+  <path d="M218 256l28 28 56-56" fill="none" stroke="#059669" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

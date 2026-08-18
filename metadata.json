@@ -1,0 +1,6 @@
+{
+  "name": "Personal Daily Health Tracker",
+  "description": "A mobile-first offline PWA routine, habit, water intake, and daily health completion tracker with local IndexedDB persistence and reminder notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
